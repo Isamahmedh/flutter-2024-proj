@@ -19,7 +19,7 @@ This project aims to streamline the management of table reservations, catering t
   - View reservations by date.
   - Delete reservations after customers leave the restaurant.
 
-|Member Name| ID|
+|Project Member Name| ID|
 |:--------------:|:------------:|
 |Zeamanuel Admasu| UGR-8908-14|
 |Fikreyohanes Abera| UGR-8889-14|
