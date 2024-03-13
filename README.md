@@ -20,8 +20,8 @@ This project aims to streamline the management of table reservations, catering t
   - Delete reservations after customers leave the restaurant.
 
 |Member Name| ID|
-|:----------:|:-------------:|
-|Zeamanuel Admasu|UGR-8908-14|
+|:--------------------:|:------------------------:|
+|Zeamanuel Admasu| UGR-8908-14|
 |Isam Ahmed| UGR-7643-14|
 |Fikreyohanes Abera| UGR-8889-14|
 |Samuel Tenagne| UGR-8506-14|
