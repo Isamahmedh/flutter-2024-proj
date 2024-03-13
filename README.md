@@ -21,7 +21,7 @@ This project aims to streamline the management of table reservations, catering t
 
 |Member Name| ID|
 |:--------------:|:------------:|
-|     Isam Ahmed|      UGR-7643-14|
-|     Zeamanuel Admasu|      UGR-8908-14|
-|     Fikreyohanes Abera|      UGR-8889-14|
-|     Samuel Tenagne|      UGR-8506-14|
+|Zeamanuel Admasu| UGR-8908-14|
+|Fikreyohanes Abera| UGR-8889-14|
+|Isam Ahmed| UGR-7643-14|
+|Samuel Tenagne| UGR-8506-14|
