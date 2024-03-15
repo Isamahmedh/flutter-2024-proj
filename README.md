@@ -22,7 +22,7 @@ This project aims to streamline the management of table reservations, catering t
   - View reservations by date.
   - Delete reservations after customers leave the restaurant.
   
-#In conclusion the two features which involve CRUD operations are table management by admin and booking by customers.
+In conclusion the two features which involve CRUD operations are table management by admin and booking by customers.
 
 |Project Member Name| ID|
 |:--------------|:------------:|
