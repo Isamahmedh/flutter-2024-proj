@@ -8,6 +8,7 @@ This project aims to streamline the management of table reservations, catering t
 - **Table Reservation**: Customers can reserve tables at the restaurant.
 - **Authentication**: Secure authentication system for both administrators and customers.
 - **API Implementation**: RESTful APIs are implemented for managing tables.
+- Roles involved are customers and admin
 - **Customer Actions**:
   - Reserve tables.
   - Cancel reservations.
@@ -18,6 +19,7 @@ This project aims to streamline the management of table reservations, catering t
   - Delete tables.
   - View reservations by date.
   - Delete reservations after customers leave the restaurant.
+-** In conclusion the two features which involve CRUD operations are table management by admin and booking by customers**.
 
 |Project Member Name| ID|
 |:--------------|:------------:|
